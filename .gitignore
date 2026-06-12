@@ -1,0 +1,33 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# NuGet
+packages/
+*.nupkg
+
+# Publish
+*.pubxml
+*.publishproj
+
+# Test results
+TestResults/
+*.trx
+
+# Runtime data / logs
+Logs/
+Data/
+
+# Backup / temp
+*.bak
+*.tmp
